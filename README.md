@@ -34,10 +34,10 @@ _________________________________________________________________
 
 数据量：6334660
 
-配置:GeForce GTX 1080 Ti
+配置:GeForce GTX 1080 Ti/32G/Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
 一轮:8minute
 
-配置：Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+配置：NULL/128G/Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
 一轮：2.*h
 ```
 
