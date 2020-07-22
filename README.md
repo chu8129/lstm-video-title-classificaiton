@@ -13,6 +13,7 @@ blstm为了测试长短期记忆深度是否有效
 ```
 
 ```
+Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #
 =================================================================
@@ -27,6 +28,9 @@ dense_1 (Dense)              (None, 24)                3096
 Total params: 939,160
 Trainable params: 939,160
 Non-trainable params: 0
+_________________________________________________________________
+2020-07-22 16:19:27.464208: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 648669184 exceeds 10% of free system memory.
+
 
 数据量：6334660
 
