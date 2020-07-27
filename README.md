@@ -57,4 +57,7 @@ _________________________________________________________________
 
 ```
 sparse_categorical_crossentropy:,这个loss适合数量较大且不想吧label展开为onehot类型使用
+    有个巨坑，lebal转int是从0开始，否则你会发现各种loss=0
+    sklearn默认0，keras的Tokenizer是从1开始,如果想要统一用tf内需要自行处理下
 ```
+
