@@ -1,11 +1,11 @@
 ## 别指望很详细的描述，坑都是要踩的
 ## keras配置问题，转原生的tf
-        keras使用tf作为backend时lstm保异常，但无法切换成theano
+        keras使用tf作为backend时lstm爆异常，但无法切换成theano
         使用tf.keras.layer无异常
 
 
 ```
-标题类别   >>  uper类别
+思路:标题类别>>uper类别
 ```
 
 ```
